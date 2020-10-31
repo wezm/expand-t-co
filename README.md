@@ -1,2 +1,3 @@
 # expand-t-co
-Expand t.co links in supplied text
+
+Expand t.co links in supplied files or stdin.
